@@ -1,0 +1,135 @@
+{
+    "raw_data": "extracted_table.csv",
+    "study_name": "32907992",
+    "id": {
+        "column": "RUN"
+    },
+    "country_iso3": {
+        "column": "Country code",
+        "mapping": {
+            "SA": "zaf",
+            "BLR": "blr",
+            "PAK": "pak",
+            "UKR": "ukr",
+            "AZE": "aze",
+            "BGD": "bgd"
+        }
+    },
+    "collection_date": {
+        "column": null
+    },
+    "hiv_status": {
+        "column": null
+    },
+    "rifampicin": {
+        "column": "RIF",
+        "mapping": {
+            "": "NA",
+            "R": 1,
+            "S": 0
+        }
+    },
+    "isoniazid": {
+        "column": "INH",
+        "mapping": {
+            "": "NA",
+            "R": 1,
+            "S": 0
+        }
+    },
+    "ethambutol": {
+        "column": null
+    },
+    "pyrazinamide": {
+        "column": "PZA",
+        "mapping": {
+            "": "NA",
+            "R": 1,
+            "S": 0
+        }
+    },
+    "streptomycin": {
+        "column": null
+    },
+    "kanamycin": {
+        "column": "KAN",
+        "mapping": {
+            "": "NA",
+            "R": 1,
+            "S": 0
+        }
+    },
+    "amikacin": {
+        "column": "AMK",
+        "mapping": {
+            "": "NA",
+            "R": 1,
+            "S": 0
+        }
+    },
+    "capreomycin": {
+        "column": "CAP",
+        "mapping": {
+            "": "NA",
+            "R": 1,
+            "S": 0
+        }
+    },
+    "levofloxacin": {
+        "column": "LFX (15)",
+        "mapping": {
+            "": "NA",
+            "R": 1,
+            "S": 0
+        }
+    },
+    "ofloxacin": {
+        "column": "OFX (2)",
+        "mapping": {
+            "": "NA",
+            "R": 1,
+            "S": 0
+        }
+    },
+    "moxifloxacin": {
+        "column": "MFX (0.5)",
+        "mapping": {
+            "": "NA",
+            "R": 1,
+            "S": 0
+        }
+    },
+    "ciprofloxacin": {
+        "column": null
+    },
+    "prothionamide": {
+        "column": null
+    },
+    "ethionamide": {
+        "column": null
+    },
+    "clarithromycin": {
+        "column": null
+    },
+    "rifabutin": {
+        "column": null
+    },
+    "para-aminosalicylic_acid": {
+        "column": null
+    },
+    "bedaquiline": {
+        "column": null
+    },
+    "clofazimine": {
+        "column": null
+    },
+    "linezolid": {
+        "column": null
+    },
+    "delamanid": {
+        "column": null
+    },
+    "cycloserine": {
+        "column": null
+    }
+}
