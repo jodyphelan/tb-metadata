@@ -1,0 +1,87 @@
+{
+    "raw_data": "41467_2023_37719_MOESM4_ESM.csv",
+    "study_name": "37031225",
+    "id": {
+        "column": "sample_accession_number"
+    },
+    "country_iso3": {
+        "column": null
+    },
+    "collection_date": {
+        "column": null
+    },
+    "hiv_status": {
+        "column": "hiv_status",
+        "mapping": {
+            "HIV+": "positive",
+            "HIV-": "negative",
+            "NA": "unknown"
+        }
+    },
+    "rifampicin": {
+        "column": null
+    },
+    "isoniazid": {
+        "column": null
+    },
+    "ethambutol": {
+        "column": null
+    },
+    "pyrazinamide": {
+        "column": null
+    },
+    "streptomycin": {
+        "column": null
+    },
+    "kanamycin": {
+        "column": null
+    },
+    "amikacin": {
+        "column": null
+    },
+    "capreomycin": {
+        "column": null
+    },
+    "levofloxacin": {
+        "column": null
+    },
+    "ofloxacin": {
+        "column": null
+    },
+    "moxifloxacin": {
+        "column": null
+    },
+    "ciprofloxacin": {
+        "column": null
+    },
+    "prothionamide": {
+        "column": null
+    },
+    "ethionamide": {
+        "column": null
+    },
+    "clarithromycin": {
+        "column": null
+    },
+    "rifabutin": {
+        "column": null
+    },
+    "para-aminosalicylic_acid": {
+        "column": null
+    },
+    "bedaquiline": {
+        "column": null
+    },
+    "clofazimine": {
+        "column": null
+    },
+    "linezolid": {
+        "column": null
+    },
+    "delamanid": {
+        "column": null
+    },
+    "cycloserine": {
+        "column": null
+    }
+}
