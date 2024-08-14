@@ -1,0 +1,82 @@
+{
+    "study_name": "38017383",
+    "raw_data": "raw_data.csv",
+    "id": {
+        "column": "id"
+    },
+    "country_iso3": {
+        "column": null
+    },
+    "collection_date": {
+        "column": null
+    },
+    "hiv_status": {
+        "column": null
+    },
+    "rifampicin": {
+        "column": null
+    },
+    "isoniazid": {
+        "column": null
+    },
+    "ethambutol": {
+        "column": null
+    },
+    "pyrazinamide": {
+        "column": null
+    },
+    "streptomycin": {
+        "column": null
+    },
+    "kanamycin": {
+        "column": null
+    },
+    "amikacin": {
+        "column": null
+    },
+    "capreomycin": {
+        "column": null
+    },
+    "levofloxacin": {
+        "column": null
+    },
+    "ofloxacin": {
+        "column": null
+    },
+    "moxifloxacin": {
+        "column": null
+    },
+    "ciprofloxacin": {
+        "column": null
+    },
+    "prothionamide": {
+        "column": null
+    },
+    "ethionamide": {
+        "column": null
+    },
+    "clarithromycin": {
+        "column": null
+    },
+    "rifabutin": {
+        "column": null
+    },
+    "para-aminosalicylic_acid": {
+        "column": null
+    },
+    "bedaquiline": {
+        "column": null
+    },
+    "clofazimine": {
+        "column": null
+    },
+    "linezolid": {
+        "column": null
+    },
+    "delamanid": {
+        "column": null
+    },
+    "cycloserine": {
+        "column": null
+    }
+}
