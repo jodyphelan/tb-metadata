@@ -1,0 +1,140 @@
+- id
+- country_iso3
+- collection_date
+- hiv_status:
+  values:
+    - positive
+    - negative
+    - unknown
+- rifampicin:
+  tag: drug
+  values:
+    - 1
+    - 0
+    - NA
+- isoniazid:
+  tag: drug
+  values:
+    - 1
+    - 0
+    - NA
+- ethambutol:
+  tag: drug
+  values:
+    - 1
+    - 0
+    - NA
+- pyrazinamide:
+  tag: drug
+  values:
+    - 1
+    - 0
+    - NA
+- streptomycin:
+  tag: drug
+  values:
+    - 1
+    - 0
+    - NA
+- kanamycin:
+  tag: drug
+  values:
+    - 1
+    - 0
+    - NA
+- amikacin:
+  tag: drug
+  values:
+    - 1
+    - 0
+    - NA
+- capreomycin:
+  tag: drug
+  values:
+    - 1
+    - 0
+    - NA
+- levofloxacin:
+  tag: drug
+  values:
+    - 1
+    - 0
+    - NA
+- ofloxacin:
+  tag: drug
+  values:
+    - 1
+    - 0
+    - NA
+- moxifloxacin:
+  tag: drug
+  values:
+    - 1
+    - 0
+    - NA
+- ciprofloxacin:
+  tag: drug
+  values:
+    - 1
+    - 0
+    - NA
+- prothionamide:
+  tag: drug
+  values:
+    - 1
+    - 0
+    - NA
+- ethionamide:
+  tag: drug
+  values:
+    - 1
+    - 0
+    - NA
+- clarithromycin:
+  tag: drug
+  values:
+    - 1
+    - 0
+    - NA
+- rifabutin:
+  tag: drug
+  values:
+    - 1
+    - 0
+    - NA
+- para-aminosalicylic_acid:
+  tag: drug
+  values:
+    - 1
+    - 0
+    - NA
+- bedaquiline:
+  tag: drug
+  values:
+    - 1
+    - 0
+    - NA
+- clofazimine:
+  tag: drug
+  values:
+    - 1
+    - 0
+    - NA
+- linezolid:
+  tag: drug
+  values:
+    - 1
+    - 0
+    - NA
+- delamanid:
+  tag: drug
+  values:
+    - 1
+    - 0
+    - NA
+- cycloserine:
+  tag: drug
+  values:
+    - 1
+    - 0
+    - NA
